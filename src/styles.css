@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+fieldset {
+  border-color: blue;
+  border-top: 1px blue solid;
+  border-radius: 10px;
+}
+
+#inp:focus {
+  outline: none;
+}
